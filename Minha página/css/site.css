@@ -1,0 +1,136 @@
+body, {
+	font-family: "Crimson Text", "Times New Roman", serif;
+	background-color: #F2FFFC;
+	font-size: 120%;
+	line-height: 1.5;
+}
+
+h1, h2 {
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+    color: #02132e;
+}
+
+.titulo-principal {
+	text-align: center;
+	background-color: #F2FFFC;
+	color: #FFF;
+	padding: 57px;
+	border-bottom: 10px solid #02c6e6;
+	font-size: 60px;
+	text-transform: uppercase;
+}
+
+p {
+	text-align: justify;
+	margin: 20px 0;
+}
+
+.navegacao-site {
+	text-align: center;
+	background-color: #F2FFFC;
+	color: #02132e;
+    display: inline-block;
+    float: right;
+    
+
+}
+
+.rodape-pagina {
+    padding: 5px;
+	background-color: #02c6e6;
+	color: #F2FFFC;
+	clear: both;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
+
+
+
+.navegacao-site a {
+	color: inherit;
+	font-family: "Open Sans Condensed", sans-serif;
+}
+
+
+.container {
+	width: 720px;
+	margin: auto;
+	padding: 10px;
+}
+
+
+.subtitulo-texto {
+	font-size: 30px;
+	clear: both;
+}
+
+.icones-redes-sociais li {
+	display: inline-block;
+    float: right; 
+    position: relative;
+	bottom: 20px;
+	right: 50px;
+}
+
+nav a {
+    display: inline;
+}
+
+.icones-redes-sociais a {
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	text-indent: -99999px;
+}
+
+.instagram {
+	background-image: url(../img/instajpg.jpg);
+}
+
+.facebook {
+	background-image: url(../img/download.png);
+}
+
+.linkedin {
+	background-image: url(../img/linkedin.png);
+}
+
+main {
+
+	padding-bottom: 70px;
+}
+
+.navegacao-site {
+    padding: 5px;
+	box-sizing: border-box;
+    position: absolute;
+	top: 5%;
+    right: 45%;
+    font-size: 125%;
+
+}
+
+.formulario {
+   position: absolute;
+	top: 5%;
+    right: 7%;
+    font-size: 125%; 
+
+}
+
+.Logo {
+    float: left;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+
+.navegacao-site li{
+    display: inline-block
+        
+        
+        
+}
